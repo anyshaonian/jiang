@@ -1,0 +1,31 @@
+{
+  "pages":[
+    "pages/scanner/scanner",
+    "pages/merchant/merchant"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "影院商家",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#888",
+    "selectedColer": "#09bb07",
+    "list": [
+      {
+        "pagePath": "pages/scanner/scanner",
+        "text": "扫码",
+        "iconPath": "icon/scanner.png",
+        "selectedIconPath": "icon/scanner1.png"
+      },
+      {
+        "pagePath": "pages/merchant/merchant",
+        "text": "商家",
+        "iconPath": "icon/merchant.png",
+        "selectedIconPath": "icon/merchant1.png"
+      }
+    ]
+  }
+}
+

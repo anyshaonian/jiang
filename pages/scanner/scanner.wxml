@@ -1,0 +1,6 @@
+<!--pages/scanner/scanner.wxml-->
+<view class='scanner'>    
+  <view bindtap="click">验票</view>    
+</view>
+
+

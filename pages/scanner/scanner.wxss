@@ -1,0 +1,7 @@
+/* pages/scanner/scanner.wxss */
+.scanner{
+  color: blue;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 35px;
+}
